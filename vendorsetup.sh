@@ -1,0 +1,2 @@
+add_lunch_combo omni_catshark-eng
+add_lunch_combo omni_catshark-userdebug
